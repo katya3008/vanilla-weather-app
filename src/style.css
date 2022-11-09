@@ -22,6 +22,8 @@ li {
   font-weight: 100px;
   line-height: 21px;
   text-align: left;
+}
+li:first-letter {
   text-transform: capitalize;
 }
 .weather-app-wrapper {
